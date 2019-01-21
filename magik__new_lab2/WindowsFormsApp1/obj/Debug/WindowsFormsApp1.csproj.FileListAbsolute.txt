@@ -1,0 +1,72 @@
+c:\users\kib-9\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\kib-9\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\kib-9\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\kib-9\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\kib-9\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\kib-9\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\kib-9\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\kib-9\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\kib-9\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\kib-9\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Roman\Desktop\TOKB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Roman\Desktop\TOKB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Roman\Desktop\TOKB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Roman\Desktop\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Roman\Desktop\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Roman\Desktop\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Roman\Desktop\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nikita\Desktop\TOKB\TOKB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nikita\Desktop\TOKB\TOKB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nikita\Desktop\TOKB\TOKB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nikita\Desktop\TOKB\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\nikita\Desktop\TOKB\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nikita\Desktop\TOKB\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\nikita\Desktop\TOKB\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nikita\Desktop\TOKB\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nikita\Desktop\TOKB\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nikita\Desktop\TOKB\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ZeroSector.resources
+H:\TOKB\Zero\TOKB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\TOKB\Zero\TOKB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\TOKB\Zero\TOKB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\TOKB\Zero\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+H:\TOKB\Zero\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ZeroSector.resources
+H:\TOKB\Zero\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\TOKB\Zero\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+H:\TOKB\Zero\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\TOKB\Zero\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\TOKB\Zero\TOKB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\visualpr\TOKB-master2\LAB2-3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\visualpr\TOKB-master2\LAB2-3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\visualpr\TOKB-master2\LAB2-3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\visualpr\TOKB-master2\LAB2-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\visualpr\TOKB-master2\LAB2-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ZeroSector.resources
+E:\visualpr\TOKB-master2\LAB2-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\visualpr\TOKB-master2\LAB2-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\visualpr\TOKB-master2\LAB2-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\visualpr\TOKB-master2\LAB2-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\visualpr\TOKB-master2\LAB2-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\visualpr\magik__new_lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\visualpr\magik__new_lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\visualpr\magik__new_lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\visualpr\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\visualpr\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ZeroSector.resources
+E:\visualpr\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\visualpr\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\visualpr\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\visualpr\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\visualpr\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\visualpr\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\magik__new_lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\magik__new_lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\magik__new_lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ZeroSector.resources
+C:\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\magik__new_lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
